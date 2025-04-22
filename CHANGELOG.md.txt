@@ -1,0 +1,8 @@
+# Changelog
+
+## [1.0.0] - Initial Release
+- Added a functional Timer with pause/resume support.
+- Added a Stopwatch with start/stop/reset.
+- Clean and simple GUI using customtkinter.
+- Dark mode with large buttons and time display.
+- Alarm sound when timer completes.
