@@ -24,7 +24,7 @@ Thumbs.db
 *.log
 *.tmp
 
-# Python egg files
+# Python egg files and build folders
 *.egg
 *.egg-info/
 dist/
